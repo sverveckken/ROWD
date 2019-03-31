@@ -1,0 +1,26 @@
+* Documentation folder :
+To view all the documentation go to documentation folder and open index.html in your favourite browser.
+
+To directly go to a particular demo go to the respective demo folder and open index.html in your favourite browser.
+
+* html folder:
+	It contains 10 demo versions
+
+	* 3dclouds [This version contains 3d clouds effect]
+	* bubbles [This version contains Animated Bubbles Effect]
+	* constellation [This version contains Constellation Effect]
+	* fireworks [This version contains Background Fireworks Effect ] 
+	* image [This version contains Background Single Image] 
+	* imagekenburn [This version contains Background Image Kenburn Effect] 
+	* mozaic [This version contains Background mozaic Effect] 
+	* slider [This version contains Background Slideshow Effect] 
+	* sliderwithgradient [This version contains Background Slideshow with animated gradient Effect] 
+	* snow [This version contains Background snow with Parallax Effect] 
+	-----------------------
+
+* Installation:
+Upload files from a folder 'html' to web server or local server to test.
+
+* Dependencies:
+For contact form to work, you will need php 5.3+ support on your server.
+
