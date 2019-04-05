@@ -124,8 +124,28 @@
 												</a>
 												
 
-												<!--CONTENT CHANGED & <br> ADDED-->								
-												<div class="notify-wrap">
+												<!--CONTENT CHANGED & <br> ADDED-->
+												<form id="testingThomas" name="testingThomas" method="POST" data-netlify="true">
+													<p>
+													  <label>Your Name: <input type="text" name="name" /></label>   
+													</p>
+													<p>
+													  <label>Your Email: <input type="email" name="email" /></label>
+													</p>
+													<p>
+													  <label>Your Role: <select name="role[]" multiple>
+														<option value="leader">Leader</option>
+														<option value="follower">Follower</option>
+													  </select></label>
+													</p>
+													<p>
+													  <label>Message: <textarea name="message"></textarea></label>
+													</p>
+													<p>
+													  <button type="submit">Send</button>
+													</p>
+												  </form>							
+												<!-- <div class="notify-wrap">
 													<h4 class="wellcome-text margin-bottom-25">Hello</h4>
 													<form id="notifyMe" class="contact-form" netlify>
 														<div class="input-wrap margin-bottom-25">
@@ -139,7 +159,7 @@
 														<span class="btn-label">submit</span>
 														</button>
 													</form>
-												</div>
+												</div> -->
 											</section>
 											<!--/Notify Form-->
 										</section>
